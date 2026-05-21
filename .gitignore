@@ -16,3 +16,4 @@ coverage
 
 *.log
 /src/generated/prisma
+firebase-service-account.json
